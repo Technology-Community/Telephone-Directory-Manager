@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1F8A5AFC-F92F-4198-A2C4-9DB50DE99B5B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MC_TH_PhoneBook_K55B</RootNamespace>
+    <AssemblyName>MC_TH_PhoneBook_K55B</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoResizeDataGridTableStyle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="views\formMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\formMain.Designer.cs">
+      <DependentUpon>formMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\formStaffSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\formStaffSearch.Designer.cs">
+      <DependentUpon>formStaffSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\formUnitSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\formUnitSearch.Designer.cs">
+      <DependentUpon>formUnitSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\formPlaceSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\formPlaceSearch.Designer.cs">
+      <DependentUpon>formPlaceSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\formStaffUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\formStaffUp.Designer.cs">
+      <DependentUpon>formStaffUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\formFacultyUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\formFacultyUp.Designer.cs">
+      <DependentUpon>formFacultyUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\formDepartmentUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\formDepartmentUp.Designer.cs">
+      <DependentUpon>formDepartmentUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="views\formPlaceUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="views\formPlaceUp.Designer.cs">
+      <DependentUpon>formPlaceUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="views\formMain.resx">
+      <DependentUpon>formMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\formStaffSearch.resx">
+      <DependentUpon>formStaffSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\formUnitSearch.resx">
+      <DependentUpon>formUnitSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\formPlaceSearch.resx">
+      <DependentUpon>formPlaceSearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\formStaffUp.resx">
+      <DependentUpon>formStaffUp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\formFacultyUp.resx">
+      <DependentUpon>formFacultyUp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\formDepartmentUp.resx">
+      <DependentUpon>formDepartmentUp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="views\formPlaceUp.resx">
+      <DependentUpon>formPlaceUp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mau_xanh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c088.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

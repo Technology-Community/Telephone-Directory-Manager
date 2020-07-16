@@ -1,0 +1,15 @@
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\bin\Debug\MC_TH_PhoneBook_K55B.exe
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\bin\Debug\MC_TH_PhoneBook_K55B.pdb
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmMain.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffSearch.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmUnitSearch.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceSearch.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffUp.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmFacultyUp.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmDepartmentUp.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceUp.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.Properties.Resources.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\Telephone-Directory-Manager.csproj.GenerateResource.cache
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\Telephone-Directory-Manager.csproj.CoreCompileInputs.cache
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.exe
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.pdb

@@ -1,0 +1,65 @@
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.Properties.Resources.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.csproj.GenerateResource.Cache
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\bin\Debug\MC_TH_PhoneBook_K55B.exe
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\bin\Debug\MC_TH_PhoneBook_K55B.pdb
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.exe
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.pdb
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmLogin.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmMain.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffSearch.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmUnitSearch.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceSearch.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffUp.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmFacultyUp.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmDepartmentUp.resources
+C:\Users\Starrynighthn\AppData\Local\Temporary Projects\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.Form9.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.exe
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmLogin.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmMain.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffSearch.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmUnitSearch.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceSearch.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffUp.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmFacultyUp.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmDepartmentUp.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.Properties.Resources.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.csproj.GenerateResource.Cache
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\bin\Debug\MC_TH_PhoneBook_K55B.exe
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\bin\Debug\MC_TH_PhoneBook_K55B.pdb
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.pdb
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceUp.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.exe
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.pdb
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\bin\Debug\MC_TH_PhoneBook_K55B.exe
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\bin\Debug\MC_TH_PhoneBook_K55B.pdb
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmMain.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffSearch.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmUnitSearch.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceSearch.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffUp.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmFacultyUp.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmDepartmentUp.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceUp.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.Properties.Resources.resources
+C:\Users\Starrynighthn\Documents\Visual Studio 2008\Projects\MC_TH_PhoneBook_K55B - Copy\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Downloads\QL_Danh_ba\MC_TH_PhoneBook_K55B.Fit.Hnue\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.exe
+C:\Users\admin\Documents\Downloads\QL_Danh_ba\MC_TH_PhoneBook_K55B.Fit.Hnue\MC_TH_PhoneBook_K55B\obj\Debug\MC_TH_PhoneBook_K55B.pdb
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\bin\Debug\MC_TH_PhoneBook_K55B.exe
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\bin\Debug\MC_TH_PhoneBook_K55B.pdb
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.csprojAssemblyReference.cache
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmMain.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffSearch.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmUnitSearch.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceSearch.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmStaffUp.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmFacultyUp.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmDepartmentUp.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.FrmPlaceUp.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.Properties.Resources.resources
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.csproj.GenerateResource.cache
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.csproj.CoreCompileInputs.cache
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.exe
+E:\Code\C#\Project\Telephone-Directory-Manager\Telephone-Directory-Manager\obj\Debug\MC_TH_PhoneBook_K55B.pdb
